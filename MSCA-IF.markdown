@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Lorem Ipsum"
 permalink: /JOLI-MSCA-IF/
 ---
