@@ -3,7 +3,7 @@ layout: post
 title:  "MSCA IF JOLI project: Using the jellyfish Clytia hemisphaerica to explore the first steps of meiosis by live-imaging"
 permalink: /JOLI-MSCA-IF/
 ---
-<a href="#" class="image featured"><img src="/assets/z11_sycp1_Series010_crop.jpg" alt="Image of a wild type Clytia hemisphaerica gonad, sycp1 antibody staining (magenta) and DNA (cyan)"></a>
+<a class="image featured"><img src="/assets/z11_sycp1_Series010_crop.jpg" alt="Image of a wild type Clytia hemisphaerica gonad, sycp1 antibody staining (magenta) and DNA (cyan)"></a>
 
 The JOLI project is an EU funded Marie Skłodowska-Curie Individual Fellowship project. The overall objective of this project was to provide a framework for investigating meiosis in _Clytia hemisphaerica_. We developed molecular tools and approaches to establish a spatiotemporal mapping of early meiotic events within the developing gonad.
 
