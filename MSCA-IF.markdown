@@ -13,6 +13,6 @@ Over the course of this project we described the development and organization of
 
 In pioneering functional studies in this system, we used CRISPR-Cas9 knockout methods to generate several male and female jellyfish lines carrying mutations for Spo11, a key actor in the initiation of meiotic recombination  whose  precise role during cross species remains to be understood.  The mutants showed  several clear phenotypes: all Spo11 mutants show a clear loss of recombination and pairing in fully grown prophase arrested oocytes, while the formation of the synaptonemal complex was fully or partially abolished. We developed antibodies against the Rad-51 protein (optimization ongoing) to assess double stranded breaks. Further analysis showed that after fully grown mutant oocytes are triggered to undergo maturation,  meiotic divisions are disrupted such that the resulting female gamete is diploid or tetraploid. Unexpectedly, these eggs can be successfully fertilised, and are capable of producing viable offspring.
 
-This work is available as a <a href="https://www.biorxiv.org/content/10.1101/2022.01.05.475076v2">preprint</a> on bioRxiv.
+This work is available <a href="https://www.science.org/doi/10.1126/sciadv.add2873">in Science Advances </a>.
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 841433 (JOLI).
